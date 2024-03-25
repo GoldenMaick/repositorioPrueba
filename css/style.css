@@ -1,0 +1,51 @@
+
+
+.titulo{
+text-align: center;
+    color: orange;
+}
+
+.boton{
+
+padding: 12px 60px;
+color: red;
+
+}
+
+.centrar{
+    text-align: center;  
+    
+}
+
+.form{
+width: 20%;
+margin: 0 auto;
+background-color: rgb(174, 0, 255);
+padding: 40px;
+border-radius: 20px;
+box-shadow: 0 0 10px rgb(122, 117, 117);
+
+
+}
+
+form > input{
+width: 100%;
+padding: 10px;
+margin: 10px 0;
+border: none;
+border-radius: 5px;
+
+}
+
+footer{
+width: 100%;
+background-color: blue;
+color: rgb(0, 252, 252);
+padding: 22px;
+text-align: center;
+bottom: 0;
+position: fixed;
+
+
+
+}
